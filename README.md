@@ -1,4 +1,4 @@
-# 地铁迷的综合网站
+# 地铁迷的导航页
 [地铁的博客](https://subwayfans-blog.mysxl.cn)
 
 [编程猫主页](https://shequ.codemao.cn/user/1322514564)
