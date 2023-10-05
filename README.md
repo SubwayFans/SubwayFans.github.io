@@ -1,5 +1,7 @@
 # 地铁迷的网页中转站（导航页）
 
+[TOC]
+
 [地铁的博客](https://subwayfans-blog.mysxl.cn)
 
 [编程猫主页](https://shequ.codemao.cn/user/1322514564)
@@ -17,7 +19,7 @@
 快来看看地铁去年八月大作《[喂养雷电猴](https://player.codemao.cn/new/159068578)》吧~
 
 ---
-# 地铁の音乐周推
+# 每日一首
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1942631186&auto=1&height=66"></iframe>
 
