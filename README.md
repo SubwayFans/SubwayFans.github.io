@@ -1,7 +1,5 @@
 # 地铁迷的网页中转站（导航页）
 
-[TOC]
-
 [地铁的博客](https://subwayfans-blog.mysxl.cn)
 
 [编程猫主页](https://shequ.codemao.cn/user/1322514564)
