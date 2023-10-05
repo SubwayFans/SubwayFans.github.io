@@ -14,11 +14,17 @@
 
 # 地铁的广告
 
-404Not Found
+快来看看地铁去年八月大作《[喂养雷电猴](https://player.codemao.cn/new/159068578)》吧~
 
 ---
+# 地铁の音乐周推
 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1942631186&auto=1&height=66"></iframe>
+
+---
+# 编创协认证
+
+<iframe style="min-width:433px" frameborder="no" border="0" marginwidth="0" marginheight="0" width=100% height=287 src="//storage.bcmcreator.cn/?id=1322514564"></iframe>
 
 ---
 
