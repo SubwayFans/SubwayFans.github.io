@@ -21,8 +21,9 @@
 ---
 
 # 每日一首
-
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1476239407&auto=1&height=66"></iframe>
+惊爆！！限时鬼畜来力！！
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=2013067001&auto=1&height=66"></iframe>
+每日20:00~21:00更新
 
 ---
 
