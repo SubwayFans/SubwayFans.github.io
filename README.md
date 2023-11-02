@@ -14,6 +14,8 @@
 
 [我的GitHub](https://github.com/SubwayFans)
 
+[我的知乎](https://www.zhihu.com/people/subwayfans)
+
 # 地铁的广告
 
 快来看看地铁去年八月大作《[喂养雷电猴](https://player.codemao.cn/new/159068578)》吧~
