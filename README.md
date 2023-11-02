@@ -37,6 +37,6 @@
 
 | 姓名        | 失信原因   |  是否被执行  |
 | :----:   | :----:  | :----:  |
-| 胡峻铭（本人之弟）      | 常见失信   |   是（18天后解除）   |
+| 无      | ——   |   -——   |
 
 <iframe id="online-alarm-kur-iframe" src="https://embed-clock.onlinealarmkur.com/zh-cn/#Asia%2FShanghai" width="360" height="80" style="display: block; margin: 0px auto; border: 0px;"></iframe>
