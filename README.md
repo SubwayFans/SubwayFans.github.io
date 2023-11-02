@@ -1,4 +1,4 @@
-# 地铁迷的网页中转站（导航页）
+# 地铁迷的网页中转站
 
 [地铁的博客](https://subwayfans-blog.mysxl.cn)
 
